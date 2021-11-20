@@ -8,7 +8,16 @@
 
 # Problem
 
-##### Create a dynamic component that renders nested children in JSON to same as Gmail, YahooMail and File Folder strutures
+- Create a dynamic component that renders nested children in JSON to same as Gmail, YahooMail and File Folder strutures
+
+# Solution
+
+- This project uses the concepts of Recursio and Recursive Attributes to create a Recursive Component (recursive Dynamic Components ) Live Demo:
+- Angular solution https://adoring-lamport-2cb5ae.netlify,
+- https://github.com/giftakari/Recursive-Component-Angular
+
+- React Solution https://unruffled-keller-f77fa7.netlify.app/
+- https://github.com/giftakari/Recursive-Component-React/
 
 # Getting Started with Create React App
 
