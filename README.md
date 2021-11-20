@@ -1,3 +1,15 @@
+# Recursion
+
+##### In computer science, recursion is a method of solving a recursive problems by using functions that call themselves from within their own code.
+
+##### The power of recursion evidently lies in the possibility of defining an infinite set of objects by a finite statement. In the same manner, an infinite number of computations can be described by a finite recursive program, even if this program contains no explicit repetitions.
+
+    — Niklaus Wirth, Algorithms + Data Structures = Programs
+
+# Problem
+
+##### Create a dynamic component that renders nested children in JSON to same as Gmail, YahooMail and File Folder strutures
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
