@@ -13,7 +13,7 @@
 # Solution
 
 - This project uses the concepts of Recursio and Recursive Attributes to create a Recursive Component (recursive Dynamic Components ) Live Demo:
-- Angular solution https://adoring-lamport-2cb5ae.netlify,
+- Angular solution https://adoring-lamport-2cb5ae.netlify
 - https://github.com/giftakari/Recursive-Component-Angular
 
 - React Solution https://unruffled-keller-f77fa7.netlify.app/
