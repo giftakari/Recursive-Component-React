@@ -10,6 +10,9 @@
 
 - Create a dynamic component that renders nested children in JSON to same as Gmail, YahooMail and File Folder strutures
 
+![Screen Shot 2022-03-15 at 5 39 14 am](https://user-images.githubusercontent.com/37270379/158249844-cd922c66-376f-4bb5-8bcf-dca55480064f.png)
+
+
 # Solution
 
 - This project uses the concepts of Recursio and Recursive Attributes to create a Recursive Component (recursive Dynamic Components ) Live Demo:
